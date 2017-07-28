@@ -1,0 +1,61 @@
+Cities for the final project:
+
+LA: beaches, family
+distance: denver = 831 miles
+	new orleans = 1672 miles
+	salt lake city = 579 miles
+	seattle = 960 miles
+hotels: 2 people $150 3 stars, 3 people $250 2.5 stars, 4 people $300 3 stars, 1 person $100 2 stars, 
+2 people $300 5 stars
+
+Miami: beaches, night life
+distance: new orleans = 669 miles
+	new york: 1089 miles
+hotels: 2 people $200 3 stars, 3 people $275 2.5 stars, 4 people $350 4 stars, 1 person $100 2 stars, 
+2 people $375 5 stars, 3 people $500 5 stars
+
+London: exotic, night life
+distance:
+	new York = 3470 miles
+	paris = 214 miles
+hotels: 2 people $175 3 stars, 3 people $225 2 stars, 4 people $275 4 stars, 1 person $60 1.5 stars, 
+2 people $300 4.5 stars, 3 people $400 5 stars
+
+Paris: exotic, food, family
+distance: London = 214 miles
+	new York = 3636 miles
+hotels: 2 people $80 1 stars, 3 people $225 2.5 stars, 4 people $300 4.5 stars, 1 person $70 2 stars, 
+2 people $250 3.5 stars, 3 people $350 5 stars
+
+Salt Lake City: outdoors, family
+distance: denver = 371 miles
+	LA = 579 miles
+	New Orleans = 1434 miles
+	seattle = 701 miles
+hotels: 2 people $200 3.5 stars, 3 people $250 4 stars, 4 people $275 3 stars, 1 person $125 3 stars, 
+2 people $325 4.5 stars, 3 people $350 5 stars
+
+
+New Orleans: night life, food
+distance: denver = 1063 miles
+	Salt lake City = 1434 miles
+	LA = 1672 miles
+	Miami = 669 miles
+hotels: 2 people $100 1.5 stars, 3 people $150 2.5 stars, 4 people $275 3.5 stars, 1 person $100 3.5 stars, 
+2 people $250 4 stars, 3 people $300 5 stars
+
+Seattle: outdoors, food
+distance: denver = 1021 miles
+	LA = 960 miles
+	salt lake city = 701 miles
+hotels: 2 people $200 3 stars, 3 people $250 3.5 stars, 4 people $300 3.5 stars, 1 person $100 4 stars, 
+2 people $225 4 stars, 3 people $275 4.5 stars
+
+New York: food, night life, family
+distance: new orleans = 1169 miles
+	miami = 1089 miles
+	denver = 1631 miles
+	London = 3470 miles
+	Paris = 3636 miles
+hotels: 2 people $300 3.5 stars, 3 people $375 4 stars, 4 people $400 4 stars, 1 person $100 2 stars, 
+2 people $400 5 stars, 3 people $300 3 stars
